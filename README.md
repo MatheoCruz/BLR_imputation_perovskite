@@ -1,4 +1,4 @@
-#### Implementación de un algoritmo de imputación de datos de síntesis de celdas solares de perovskita utilizando el criterio de Bayesian Linear Regression BLR.
+### Implementación de un algoritmo de imputación de datos de síntesis de celdas solares de perovskita utilizando el criterio de Bayesian Linear Regression BLR.
 
 # 📑 BLR_imputation_perovskite
 
