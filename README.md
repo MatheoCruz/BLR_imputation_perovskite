@@ -12,7 +12,7 @@ Para el correcto funcionamiento de este proyecto es importante seguir las instru
 - **📑 Construcción y entrenamiento del modelo:** Esta etapa se encuentra relacionada con los scripts "Proyecto_de_grado_imputacion" y "Proyecto_de_grado_estimacion".
 - **📋 Evaluación:** Esta etapa se encuentra relacionada con los scripts "Evaluacion_imputacion" y "Evaluacion_estimacion".
 
-Además para el correcto funcionamiento de este proyecto es importante la importación o descarga de los datos relacionados a cada script, dado el tamaño de estos se opto por crear un archivo en la nube que permita su descarga [Archivos_proyecto](https://drive.google.com/file/d/17lrKxfZ3qhqc4CE9S13kwbI4OAU11xb2/view?usp=drive_link).
+Además para el correcto funcionamiento de este proyecto es importante la importación o descarga de los datos relacionados a cada script, dado el tamaño de estos se opto por crear un archivo en la nube que permita su descarga [Archivos_proyecto](https://drive.google.com/file/d/1uO6PLJAuZieIEYLc4G-VI5P_VzyKSaOS/view?usp=sharing).
 
 
 El archivo "Archivos_proyecto" cuenta con 3 carpeta:
