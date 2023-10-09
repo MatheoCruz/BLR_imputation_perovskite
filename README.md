@@ -4,7 +4,7 @@
 
 Mediante este proyecto se implementa un algoritmo que realiza dos procesos de imputación, los modelos emplean el criterio BLR, primero se realiza imputación para las variables de entrada y salida, y coo segundo modelo se realiza imputación mediante estimación para las variables de rendimiento/salida: *Voc, Jsc, PCE y FF.*
 
-Este proyecto se hizo con la intención de ser replicable y utilizable sin importar la base de datos a utilizar, acalrando que algunas etapas, como lo es la de preprocesamiento, son únicas en este proyecto, dado que solucionan problemas y extraen características únicas de las bases de datos de interés presentadas.
+Este proyecto se hizo con la intención de ser replicable y utilizable sin importar la base de datos a utilizar, aclarando que algunas etapas, como lo es la de preprocesamiento, son únicas en este proyecto, dado que solucionan problemas y extraen características únicas de las bases de datos de interés presentadas.
 
 ## 💻 Instrucciones para los scripts
 Para el correcto funcionamiento de este proyecto es importante seguir las instrucciones y tener en cuenta las pautas mencionadas. Cada script se encuentra relacionado con una etapa en específico.
