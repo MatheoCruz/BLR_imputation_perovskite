@@ -22,4 +22,4 @@ El archivo "Archivos_proyecto" cuenta con 4 carpeta:
 - **📊 Resultados:** esta carpeta cuenta con dos subcarpetas
   - *Imputación:* Que son los resultados de la construcción del modelo del script "Proyecto_de_grado_imputacion" y fungen como entradas de el script "Evaluacion_imputacion"
   - *Imputación por estimación:* Que son los resultados de la construccion del modelo del script "Proyecto_de_grado_estimacion" y fungen como entradas de el script "Evaluacion_estimacion".
-- **:newspaper: Transformaciones: ** Por ultimo se encuentra la carpeta que contiene el archivo de las transdormaciones relacionadas a cada variable, esta carpeta es util para los script de prediccion "Estimacion" e "Imputacion".
+- **:newspaper: Transformaciones:** Por ultimo se encuentra la carpeta que contiene el archivo de las transdormaciones relacionadas a cada variable, esta carpeta es util para los script de prediccion "Estimacion" e "Imputacion".
