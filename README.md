@@ -11,14 +11,15 @@ Para el correcto funcionamiento de este proyecto es importante seguir las instru
 - **📄 Preprocesamiento:** Esta etapa se encuenta relacionada con los scripts "Preprocesamiento_base_datos_imputar" y "Preprocesamiento_base_datos_complementaria".
 - **📑 Construcción y entrenamiento del modelo:** Esta etapa se encuentra relacionada con los scripts "Proyecto_de_grado_imputacion" y "Proyecto_de_grado_estimacion".
 - **📋 Evaluación:** Esta etapa se encuentra relacionada con los scripts "Evaluacion_imputacion" y "Evaluacion_estimacion".
-- **:crystal_ball: Modelo:** Esta etaoa es el resultado de las etapas anteriores, por medio de este se da un vistazo a los modelos de imputacion y de estimacion anteriormente mencionados, el script Imputacion y el script Estimacion se encuentran relacionados a esta etapa.
+- **:crystal_ball: Modelo:** Esta etaoa es el resultado de las etapas anteriores, por medio de este se da un vistazo a los modelos de imputacion y de estimacion anteriormente mencionados, el script "Imputacion" y el script "Estimacion" se encuentran relacionados a esta etapa.
 
 Además para el correcto funcionamiento de este proyecto es importante la importación o descarga de los datos relacionados a cada script, dado el tamaño de estos se opto por crear un archivo en la nube que permita su descarga [Archivos_proyecto](https://drive.google.com/file/d/1RLdhUYAIKnMCvDBnZZdg6qZmKPp_ByRN/view?usp=drive_link).
 
 
-El archivo "Archivos_proyecto" cuenta con 3 carpeta:
+El archivo "Archivos_proyecto" cuenta con 4 carpeta:
 - **📚 Bases_datos:** Corresponden a las bases de datos utilizadas sin preprocesar "base_datos_sintesis", "Perovskite_database_content_all_data" que fungen como entradas de los scripts "Preprocesamiento_base_datos_imputar" y "Preprocesamiento_base_datos_complentaria".
 - **📓 Datos_preprocesados:** En esta se encuentran la base de datos preprocesada "datos_sintesis" que funge como base de datos de entrenamiento en los scripts "Proyecto_de_grado_imputacion" y "Proyecto_de_grado_estimacion", además se encuentran los archivos "priori_x_grids" y "priori_y_grids" que permiten la construcción de las funciones de densidad de probabilidad a priori, lo que quiere decir que fungen como entradas de informacion previa de los modelos a entrenar en los scripts anteriormente mencionados.
 - **📊 Resultados:** esta carpeta cuenta con dos subcarpetas
   - *Imputación:* Que son los resultados de la construcción del modelo del script "Proyecto_de_grado_imputacion" y fungen como entradas de el script "Evaluacion_imputacion"
   - *Imputación por estimación:* Que son los resultados de la construccion del modelo del script "Proyecto_de_grado_estimacion" y fungen como entradas de el script "Evaluacion_estimacion".
+- **:newspaper: Transformaciones: ** Por ultimo se encuentra la carpeta que contiene el archivo de las transdormaciones relacionadas a cada variable, esta carpeta es util para los script de prediccion "Estimacion" e "Imputacion".
