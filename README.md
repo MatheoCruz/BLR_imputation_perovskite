@@ -2,7 +2,7 @@
 
 # 📑 BLR_imputation_perovskite
 
-Mediante este proyecto se implementa un algoritmo que realiza dos procesos de imputación, los modelos emplean el criterio BLR, primero se realiza imputación para las variables de entrada y salida, y coo segundo modelo se realiza imputación mediante estimación para las variables de rendimiento/salida: *Voc, Jsc, PCE y FF.*
+Mediante este proyecto se implementa un algoritmo que realiza dos procesos de imputación, los modelos emplean el criterio BLR, primero se realiza imputación para las variables de entrada y salida, y como segundo modelo se realiza imputación mediante estimación para las variables de rendimiento/salida: *Voc, Jsc, PCE y FF.*
 
 Este proyecto se hizo con la intención de ser replicable y utilizable sin importar la base de datos a utilizar, aclarando que algunas etapas, como lo es la de preprocesamiento, son únicas en este proyecto, dado que solucionan problemas y extraen características únicas de las bases de datos de interés presentadas.
 
@@ -11,9 +11,9 @@ Para el correcto funcionamiento de este proyecto es importante seguir las instru
 - **📄 Preprocesamiento:** Esta etapa se encuenta relacionada con los scripts "Preprocesamiento_base_datos_imputar" y "Preprocesamiento_base_datos_complementaria".
 - **📑 Construcción y entrenamiento del modelo:** Esta etapa se encuentra relacionada con los scripts "Proyecto_de_grado_imputacion" y "Proyecto_de_grado_estimacion".
 - **📋 Evaluación:** Esta etapa se encuentra relacionada con los scripts "Evaluacion_imputacion" y "Evaluacion_estimacion".
-- **:crystal_ball: Modelo:** Esta etaoa es el resultado de las etapas anteriores, por medio de este se da un vistazo a los modelos de imputacion y de estimacion anteriormente mencionados, el script "Imputacion" y el script "Estimacion" se encuentran relacionados a esta etapa.
+- **:crystal_ball: Modelo:** Esta etapa es el resultado de las etapas anteriores, por medio de este se da un vistazo a los modelos de imputación y de estimación anteriormente mencionados, el script "Imputacion" y el script "Estimacion" se encuentran relacionados a esta etapa.
 
-Además para el correcto funcionamiento de este proyecto es importante la importación o descarga de los datos relacionados a cada script, dado el tamaño de estos se opto por crear un archivo en la nube que permita su descarga [Archivos_proyecto](https://drive.google.com/file/d/1RLdhUYAIKnMCvDBnZZdg6qZmKPp_ByRN/view?usp=sharing).
+Además para el correcto funcionamiento de este proyecto es importante la importación o descarga de los datos relacionados a cada script, dado el tamaño de estos se opto por crear un archivo en la nube que permita su descarga [Archivos_proyecto]([[https://drive.google.com/file/d/1RLdhUYAIKnMCvDBnZZdg6qZmKPp_ByRN/view?usp=drive_link](https://drive.google.com/file/d/1RLdhUYAIKnMCvDBnZZdg6qZmKPp_ByRN/view?usp=sharing)](https://drive.google.com/file/d/1RLdhUYAIKnMCvDBnZZdg6qZmKPp_ByRN/view)).
 
 
 El archivo "Archivos_proyecto" cuenta con 4 carpeta:
@@ -22,4 +22,7 @@ El archivo "Archivos_proyecto" cuenta con 4 carpeta:
 - **📊 Resultados:** esta carpeta cuenta con dos subcarpetas
   - *Imputación:* Que son los resultados de la construcción del modelo del script "Proyecto_de_grado_imputacion" y fungen como entradas de el script "Evaluacion_imputacion"
   - *Imputación por estimación:* Que son los resultados de la construccion del modelo del script "Proyecto_de_grado_estimacion" y fungen como entradas de el script "Evaluacion_estimacion".
-- **:newspaper: Transformaciones:** Por ultimo se encuentra la carpeta que contiene el archivo de las transdormaciones relacionadas a cada variable, esta carpeta es util para los script de prediccion "Estimacion" e "Imputacion".
+- **:newspaper: Transformaciones:** Por último se encuentra la carpeta que contiene el archivo de las transdormaciones relacionadas a cada variable, esta carpeta es útil para los script de predicción "Estimacion" e "Imputacion".
+
+
+En este repositorio se almacenan los archivos de daos y scripts realizados por Matheo Cruz y Francy Calderón, los cuales son los entregables para el trabajo de grado: "Implementación de un algoritmo de imputación de datos de síntesis de celdas solares de perovskita utilizando el criterio de Bayesian Linear Regression BLR." para optar al título de Ingeniero Electrónico en la UIS.
