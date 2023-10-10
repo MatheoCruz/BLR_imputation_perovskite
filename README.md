@@ -11,7 +11,7 @@ Para el correcto funcionamiento de este proyecto es importante seguir las instru
 - **📄 Preprocesamiento:** Esta etapa se encuenta relacionada con los scripts "Preprocesamiento_base_datos_imputar" y "Preprocesamiento_base_datos_complementaria".
 - **📑 Construcción y entrenamiento del modelo:** Esta etapa se encuentra relacionada con los scripts "Proyecto_de_grado_imputacion" y "Proyecto_de_grado_estimacion".
 - **📋 Evaluación:** Esta etapa se encuentra relacionada con los scripts "Evaluacion_imputacion" y "Evaluacion_estimacion".
-- ** :crystal_ball: Modelo:** Esta etaoa es el resultado de las etapas anteriores, por medio de este se da un vistazo a los modelos de imputacion y de estimacion anteriormente mencionados, el script Imputacion y el script Estimacion se encuentran relacionados a esta etapa.
+- **:crystal_ball: Modelo:** Esta etaoa es el resultado de las etapas anteriores, por medio de este se da un vistazo a los modelos de imputacion y de estimacion anteriormente mencionados, el script Imputacion y el script Estimacion se encuentran relacionados a esta etapa.
 
 Además para el correcto funcionamiento de este proyecto es importante la importación o descarga de los datos relacionados a cada script, dado el tamaño de estos se opto por crear un archivo en la nube que permita su descarga [Archivos_proyecto](https://drive.google.com/file/d/1RLdhUYAIKnMCvDBnZZdg6qZmKPp_ByRN/view?usp=drive_link).
 
