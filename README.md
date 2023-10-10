@@ -13,7 +13,7 @@ Para el correcto funcionamiento de este proyecto es importante seguir las instru
 - **📋 Evaluación:** Esta etapa se encuentra relacionada con los scripts "Evaluacion_imputacion" y "Evaluacion_estimacion".
 - **:crystal_ball: Modelo:** Esta etapa es el resultado de las etapas anteriores, por medio de este se da un vistazo a los modelos de imputación y de estimación anteriormente mencionados, el script "Imputacion" y el script "Estimacion" se encuentran relacionados a esta etapa.
 
-Además para el correcto funcionamiento de este proyecto es importante la importación o descarga de los datos relacionados a cada script, dado el tamaño de estos se opto por crear un archivo en la nube que permita su descarga [Archivos_proyecto]([https://drive.google.com/file/d/1RLdhUYAIKnMCvDBnZZdg6qZmKPp_ByRN/view?usp=drive_link]).
+Además para el correcto funcionamiento de este proyecto es importante la importación o descarga de los datos relacionados a cada script, dado el tamaño de estos se opto por crear un archivo en la nube que permita su descarga [Archivos_proyecto](https://drive.google.com/file/d/1RLdhUYAIKnMCvDBnZZdg6qZmKPp_ByRN/view?usp=drive_link).
 
 
 El archivo "Archivos_proyecto" cuenta con 4 carpeta:
